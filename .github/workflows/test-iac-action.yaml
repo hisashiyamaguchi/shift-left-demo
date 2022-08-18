@@ -1,7 +1,6 @@
 name: Test Orca IaC action
 
-on:
-  workflow_dispatch:
+on: push
 
 jobs:
   iac_scan_job:
