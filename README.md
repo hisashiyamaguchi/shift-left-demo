@@ -1,5 +1,3 @@
-SLS demo with HiSol on 19th Aug 2022.
-
 # Orca Shift Left Security Action
 
 [GitHub Action](https://github.com/features/actions)
